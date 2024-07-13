@@ -1,11 +1,9 @@
-body {
-                         color: cadetblue;
-                         background-color: white;
+.heading1 {
+                         color: cornflowerblue;
+                         background-color: aliceblue;
 }
 
-image {
-                         border: 2px;
-                         size: 400px;
-                         height: 400px;
-                         weight: 350px
+.heading2 {
+                         color: brown;
+                         background-color: cornsilk;
 }
