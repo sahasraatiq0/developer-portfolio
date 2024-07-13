@@ -1,0 +1,11 @@
+body {
+                         color: cadetblue;
+                         background-color: white;
+}
+
+image {
+                         border: 2px;
+                         size: 400px;
+                         height: 400px;
+                         weight: 350px
+}
