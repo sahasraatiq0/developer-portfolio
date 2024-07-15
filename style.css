@@ -1,9 +1,21 @@
 .heading1 {
-                         color: cornflowerblue;
-                         background-color: aliceblue;
+        color: cornflowerblue;
+        background-color: aliceblue;
 }
 
 .heading2 {
-                         color: brown;
-                         background-color: cornsilk;
+        color: brown;
+        background-color: cornsilk;
+}
+.colour{
+       color: aqua;
+}
+#about{
+       background-color: black;
+       color:forestgreen;
+                         
+}
+.buttom{
+                         background-color: blanchedalmond;
+                         color: crimson;
 }
