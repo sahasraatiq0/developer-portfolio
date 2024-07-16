@@ -1,21 +1,40 @@
 .heading1 {
-        color: cornflowerblue;
+        color: rgb(2, 85, 239);
         background-color: aliceblue;
 }
 
 .heading2 {
         color: brown;
-        background-color: cornsilk;
+        
 }
-.colour{
-       color: aqua;
+                   
+.heading3{ 
+      color:coral;
 }
-#about{
-       background-color: black;
-       color:forestgreen;
-                         
+
+#about{ 
+        background-color:whitesmoke;
+       color:crimson;
 }
-.buttom{
-                         background-color: blanchedalmond;
-                         color: crimson;
+
+section{
+        display: flex;
+ }
+
+.half-width{
+        width:50%;
+}
+
+.half-width {
+        padding: 10%;
+       
+}
+
+.link-button{
+       text-decoration: none; 
+       background-image: linear-gradient(orange,tomato);
+       color: aliceblue;
+       font-weight: 700;
+       padding: 10px 30px;
+       border-radius: 5px;
 }
