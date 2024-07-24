@@ -1,3 +1,6 @@
+body{
+       margin: 0px; 
+}
 .heading1 {
         color: rgb(2, 85, 239);
         background-color: aliceblue;
@@ -19,6 +22,7 @@
 
 section{
         display: flex;
+
  }
 
 .half-width{
@@ -26,7 +30,7 @@ section{
 }
 
 .half-width {
-        padding: 10%;
+        padding: 5%;
        
 }
 
@@ -37,4 +41,8 @@ section{
        font-weight: 700;
        padding: 10px 30px;
        border-radius: 5px;
+}
+.top_banner{
+       background-image: url(images/top-banner.png);
+       background-repeat: no-repeat;
 }
