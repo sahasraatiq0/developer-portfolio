@@ -72,3 +72,13 @@ body{
         border-image-slice: 1;
 
 }
+#full-stack-experience{
+        border-left: 5Px solid;
+        border-image: linear-gradient(salmon,tomato) ;
+        border-image-slice: 1;
+        padding-right: 10px;
+}
+footer p{
+        text-align: center;
+}
+
